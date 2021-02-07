@@ -1,16 +1,10 @@
 package com.example.myapp.java;
 
-/**
- * Write a description of class LogAnalyzer here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.*;
 import edu.duke.*;
 
 public class LogAnalyzer {
-
+    
     private ArrayList<LogEntry> records;
 
     public LogAnalyzer() {
